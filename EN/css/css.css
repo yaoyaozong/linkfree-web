@@ -314,7 +314,7 @@ hr.hrtop, hr.hrbottom {
 		border: 0;
 		float: left; /*ie doesn't inherit the float*/
 		height: 16px;
-		font-size: 9.5px;
+		font-size: 12px;
 		padding-top: 4px;
 	}
 
